@@ -1,0 +1,50 @@
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>
+  <body>
+    <table>
+    <thead><tr><th></th></tr></thead>    <tbody> <tr class="odd"><td><table>
+<tr><td>Passenger Vehicle Collision Coverage Insurance Losses,  2013-2015 Model Years</td></tr>
+<tr><td></td></tr>
+<tr><td><table><colgroup><col><col><col></colgroup>
+<thead>
+<tr>
+<th>Vehicle type</th>
+<th>Claim frequency (1)</th>
+<th>Claim severity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Passenger cars and minivans</td>
+<td>8.2</td>
+<td>$4,929</td>
+</tr>
+<tr>
+<td>Pickups</td>
+<td>6.3</td>
+<td>4,868</td>
+</tr>
+<tr>
+<td>SUVs</td>
+<td>6.4</td>
+<td>4,902</td>
+</tr>
+<tr>
+<td><strong>All passenger vehicles (2)</strong></td>
+<td><strong>7.4</strong></td>
+<td><strong>$4,916</strong></td>
+</tr>
+</tbody></table>
+
+(1) Per 100 insured vehicle years.
+(2) Includes claims from cargo/passenger vans.
+
+Source: Highway Loss Data Institute.</td></tr>
+</table></td> </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

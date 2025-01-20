@@ -1,0 +1,222 @@
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>
+  <body>
+    <table>
+    <thead><tr><th></th></tr></thead>    <tbody> <tr class="odd"><td><table>
+<tr><td>PRIVATE PASSENGER AUTO INSURANCE LOSSES, 1999-2008 (1)</td></tr>
+<tr><td></td></tr>
+<tr><td><table>
+    <colgroup></colgroup>
+    <thead>
+        <tr>
+            <th>&nbsp;</th>
+            <th>Liability</th>
+        </tr>
+        <tr>
+            <th>&nbsp;</th>
+            <th>Bodily injury (2) &nbsp;</th>
+            <th>Property damage &nbsp;(3)</th>
+        </tr>
+        <tr>
+            <th>Year</th>
+            <th>Claim<br/>
+            frequency (4)</th>
+            <th>Claim<br/>
+            &nbsp;severity (5), (6)</th>
+            <td><strong>Claim<br/>
+            &nbsp;frequency (4)</strong></td>
+            <th>Claim<br/>
+            &nbsp;severity (5)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><font>1999</font></td>
+            <td><font>1.23</font></td>
+            <td><font>$9,646</font></td>
+            <td><font>4.00</font></td>
+            <td><font>$2,294</font></td>
+        </tr>
+        <tr>
+            <td><font>2000</font></td>
+            <td><font>1.20</font></td>
+            <td><font>9,807</font></td>
+            <td><font>3.98</font></td>
+            <td><font>2,393</font></td>
+        </tr>
+        <tr>
+            <td><font>2001</font></td>
+            <td><font>1.16</font></td>
+            <td><font>10,149</font></td>
+            <td><font>3.97</font></td>
+            <td><font>2,471</font></td>
+        </tr>
+        <tr>
+            <td><font>2002</font></td>
+            <td><font>1.15</font></td>
+            <td><font>10,400</font></td>
+            <td><font>3.92</font></td>
+            <td><font>2,552</font></td>
+        </tr>
+        <tr>
+            <td><font>2003</font></td>
+            <td><font>1.12</font></td>
+            <td><font>11,135</font></td>
+            <td><font>3.84</font></td>
+            <td><font>2,558</font></td>
+        </tr>
+        <tr>
+            <td><font>2004</font></td>
+            <td><font>1.11</font></td>
+            <td><font>11,613</font></td>
+            <td><font>3.76</font></td>
+            <td><font>2,582</font></td>
+        </tr>
+        <tr>
+            <td><font>2005</font></td>
+            <td><font>1.07</font></td>
+            <td><font>11,983</font></td>
+            <td><font>3.63</font></td>
+            <td><font>2,657</font></td>
+        </tr>
+        <tr>
+            <td><font>2006</font></td>
+            <td><font>1.02</font></td>
+            <td><font>12,426</font></td>
+            <td><font>3.44</font></td>
+            <td><font>2,783</font></td>
+        </tr>
+        <tr>
+            <td><font>2007</font></td>
+            <td><font>0.95</font></td>
+            <td><font>12,712</font></td>
+            <td><font>3.48</font></td>
+            <td><font>2,830</font></td>
+        </tr>
+        <tr>
+            <td><font>2008</font></td>
+            <td><font>0.96</font></td>
+            <td><font>13,533</font></td>
+            <td><font>3.45</font></td>
+            <td><font>2,889</font></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th>&nbsp;</th>
+            <th>Physical damage&nbsp;&nbsp;(7)</th>
+        </tr>
+        <tr>
+            <th><strong>&nbsp;</strong></th>
+            <th>Collision</th>
+            <th>Comprehensive (8)&nbsp;&nbsp;</th>
+        </tr>
+        <tr>
+            <th>Year</th>
+            <th>Claim&nbsp;<br/>
+            frequency (4)</th>
+            <th>Claim<br/>
+            severity (5)</th>
+            <td><strong>Claim<br/>
+            frequency (4)</strong></td>
+            <th>Claim<br/>
+            &nbsp;severity (5)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><font>1999</font></td>
+            <td><font>5.73</font></td>
+            <td><font>$2,352</font></td>
+            <td><font>2.80</font></td>
+            <td><font>$1,116</font></td>
+        </tr>
+        <tr>
+            <td><font>2000</font></td>
+            <td><font>5.61</font></td>
+            <td><font>2,480</font></td>
+            <td><font>2.89</font></td>
+            <td><font>1,125</font></td>
+        </tr>
+        <tr>
+            <td><font>2001</font></td>
+            <td><font>5.53</font></td>
+            <td><font>2,525</font></td>
+            <td><font>3.11</font></td>
+            <td><font>1,152</font></td>
+        </tr>
+        <tr>
+            <td><font>2002</font></td>
+            <td><font>5.48</font></td>
+            <td><font>2,728</font></td>
+            <td><font>2.91</font></td>
+            <td><font>1,250</font></td>
+        </tr>
+        <tr>
+            <td><font>2003</font></td>
+            <td><font>5.13</font></td>
+            <td><font>2,921</font></td>
+            <td><font>2.76</font></td>
+            <td><font>1,324</font></td>
+        </tr>
+        <tr>
+            <td><font>2004</font></td>
+            <td><font>4.85</font></td>
+            <td><font>3,080</font></td>
+            <td><font>2.46</font></td>
+            <td><font>1,417</font></td>
+        </tr>
+        <tr>
+            <td><font>2005</font></td>
+            <td><font>5.04</font></td>
+            <td><font>3,067</font></td>
+            <td><font>2.38</font></td>
+            <td><font>1,457</font></td>
+        </tr>
+        <tr>
+            <td><font>2006</font></td>
+            <td><font>4.87</font></td>
+            <td><font>3,194</font></td>
+            <td><font>2.40</font></td>
+            <td><font>1,528</font></td>
+        </tr>
+        <tr>
+            <td><font>2007</font></td>
+            <td><font>5.13</font></td>
+            <td><font>3,139</font></td>
+            <td><font>2.47</font></td>
+            <td><font>1,519</font></td>
+        </tr>
+        <tr>
+            <td><font>2008</font></td>
+            <td><font>5.34</font></td>
+            <td><font>3,004</font></td>
+            <td><font>2.57</font></td>
+            <td><font>1,549</font></td>
+        </tr>
+    </tbody>
+</table>
+<p>(1) For all limits combined. Data are for paid claims.<br/>
+(2) Excludes Massachusetts and most states with no-fault automobile insurance laws.<br/>
+(3) Excludes Massachusetts, Michigan and New Jersey.<br/>
+(4) Claim frequency is claims per 100 earned car years. A car year is equal to 365 days of insured coverage for a single vehicle.<br/>
+(5) Claim severity is the size of the loss, measured by the average amount paid for each claim.<br/>
+(6) Includes loss adjustment expenses.<br/>
+(7) Excludes Massachusetts, Michigan and New Jersey. Based on coverage with a $500 deductible.<br/>
+(8) Excludes wind and water losses.</p>
+<p>Source: ISO.</p></td></tr>
+</table></td> </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

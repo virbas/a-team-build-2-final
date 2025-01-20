@@ -1,0 +1,8 @@
+Data about auto insurance expenditures from 2012-2021 tracks yearly costs and percentage changes, showing spending patterns and insurance cost variations over a decade.
+
+Example questions:
+1. What is the overall trend in auto insurance expenditures during this time period?
+2. Which years showed the most significant price fluctuations?
+3. How did the auto insurance spending compare between the start (2012) and end (2021) of the period?
+4. What economic events might have influenced these insurance cost changes?
+5. Was there a noticeable pattern in the percentage changes year over year?

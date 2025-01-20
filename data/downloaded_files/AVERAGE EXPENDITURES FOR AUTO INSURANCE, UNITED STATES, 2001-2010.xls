@@ -1,0 +1,70 @@
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>
+  <body>
+    <table>
+    <thead><tr><th></th></tr></thead>    <tbody> <tr class="odd"><td><table>
+<tr><td>AVERAGE EXPENDITURES FOR AUTO INSURANCE, UNITED STATES, 2001-2010</td></tr>
+<tr><td></td></tr>
+<tr><td><table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Average     expenditure</th>
+            <th>Percent      change</th>
+            <th>Year</th>
+            <th>Average     expenditure</th>
+            <th>Percent      change</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2001</td>
+            <td>$726</td>
+            <td>5.2%</td>
+            <td>2006</td>
+            <td>$818</td>
+            <td>-1.7%</td>
+        </tr>
+        <tr>
+            <td>2002</td>
+            <td>786</td>
+            <td>8.3</td>
+            <td>2007</td>
+            <td>798</td>
+            <td>-2.4</td>
+        </tr>
+        <tr>
+            <td>2003</td>
+            <td>830</td>
+            <td>5.6</td>
+            <td>2008</td>
+            <td>791</td>
+            <td>-0.9</td>
+        </tr>
+        <tr>
+            <td>2004</td>
+            <td>843</td>
+            <td>1.6</td>
+            <td>2009</td>
+            <td>787</td>
+            <td>-0.5</td>
+        </tr>
+        <tr>
+            <td>2005</td>
+            <td>832</td>
+            <td>-1.3</td>
+            <td>2010</td>
+            <td>791</td>
+            <td>0.6</td>
+        </tr>
+    </tbody>
+</table>
+<p>Source: &copy;2012 National Association of Insurance Commissioners (NAIC).</p></td></tr>
+</table></td> </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

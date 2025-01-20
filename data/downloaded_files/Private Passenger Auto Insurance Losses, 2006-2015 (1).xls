@@ -1,0 +1,208 @@
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>
+  <body>
+    <table>
+    <thead><tr><th></th></tr></thead>    <tbody> <tr class="odd"><td><table>
+<tr><td>Private Passenger Auto Insurance Losses, 2006-2015 (1)</td></tr>
+<tr><td><p> </p>
+</td></tr>
+<tr><td><table><colgroup><col><col><col><col><col></colgroup>
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th>Liability</th>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<th>Bodily injury (2)</th>
+<th>Property damage (3)</th>
+</tr>
+<tr>
+<th>Year</th>
+<th>Claim frequency (4)</th>
+<th>Claim severity (5), (6)</th>
+<th>Claim frequency (4)</th>
+<th>Claim severity (5), (6)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2006</td>
+<td>0.98</td>
+<td>$12,907</td>
+<td>3.40</td>
+<td>$2,796</td>
+</tr>
+<tr>
+<td>2007</td>
+<td>0.90</td>
+<td>13,361</td>
+<td>3.46</td>
+<td>2,847</td>
+</tr>
+<tr>
+<td>2008</td>
+<td>0.91</td>
+<td>14,067</td>
+<td>3.42</td>
+<td>2,903</td>
+</tr>
+<tr>
+<td>2009</td>
+<td>0.89</td>
+<td>13,891</td>
+<td>3.49</td>
+<td>2,869</td>
+</tr>
+<tr>
+<td>2010</td>
+<td>0.91</td>
+<td>14,406</td>
+<td>3.53</td>
+<td>2,881</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>0.92</td>
+<td>14,848</td>
+<td>3.56</td>
+<td>2,958</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>0.95</td>
+<td>14,690</td>
+<td>3.50</td>
+<td>3,073</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>0.95</td>
+<td>15,441</td>
+<td>3.55</td>
+<td>3,231</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>0.87</td>
+<td>16,640</td>
+<td>3.66</td>
+<td>3,290</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>0.91</td>
+<td>17,024</td>
+<td>3.73</td>
+<td>3,493</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th>Physical damage (7)</th>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<th>Collision</th>
+<th>Comprehensive (8)</th>
+</tr>
+<tr>
+<th>Year</th>
+<th>Claim frequency (4)</th>
+<th>Claim severity (5)</th>
+<th>Claim frequency (4)</th>
+<th>Claim severity (5)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2006</td>
+<td>4.87</td>
+<td>$3,194</td>
+<td>2.40</td>
+<td>$1,528</td>
+</tr>
+<tr>
+<td>2007</td>
+<td>5.20</td>
+<td>3,109</td>
+<td>2.48</td>
+<td>1,524</td>
+</tr>
+<tr>
+<td>2008</td>
+<td>5.35</td>
+<td>3,005</td>
+<td>2.57</td>
+<td>1,551</td>
+</tr>
+<tr>
+<td>2009</td>
+<td>5.48</td>
+<td>2,869</td>
+<td>2.75</td>
+<td>1,389</td>
+</tr>
+<tr>
+<td>2010</td>
+<td>5.69</td>
+<td>2,778</td>
+<td>2.62</td>
+<td>1,476</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>5.75</td>
+<td>2,861</td>
+<td>2.79</td>
+<td>1,490</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>5.57</td>
+<td>2,950</td>
+<td>2.62</td>
+<td>1,585</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>5.71</td>
+<td>3,144</td>
+<td>2.57</td>
+<td>1,621</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>5.95</td>
+<td>3,161</td>
+<td>2.80</td>
+<td>1,567</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>6.05</td>
+<td>3,350</td>
+<td>2.73</td>
+<td>1,671</td>
+</tr>
+</tbody></table>
+
+(1) For all limits combined. Data are for paid claims.
+(2) Excludes Massachusetts and most states with no-fault automobile insurance laws.
+(3) Excludes Massachusetts, Michigan and New Jersey.
+(4) Claim frequency is claims per 100 car years. A car year is equal to 365 days of insured coverage for one vehicle.
+(5) Claim severity is the size of the loss.
+(6) Includes loss adjustment expenses.
+(7) Excludes Massachusetts, Michigan and Puerto Rico. Based on coverage with a $500 deductible.
+(8) Excludes wind and water losses.
+
+Source: ISO®, a Verisk Analytics® business.</td></tr>
+</table></td> </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

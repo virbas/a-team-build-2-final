@@ -1,0 +1,209 @@
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>
+  <body>
+    <table>
+    <thead><tr><th></th></tr></thead>    <tbody> <tr class="odd"><td><table>
+<tr><td>Private Passenger Auto Insurance Losses, 2014-2023 (1)</td></tr>
+<tr><td><p> </p>
+</td></tr>
+<tr><td><table>
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th>Liability</th>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<th>Bodily injury (2)</th>
+<th>Property damage (3)</th>
+</tr>
+<tr>
+<th>Year</th>
+<th>Claim frequency (4)</th>
+<th>Claim severity (5), (6)</th>
+<th>Claim frequency (4)</th>
+<th>Claim severity (5), (6)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2014</td>
+<td>0.97</td>
+<td>$15,384</td>
+<td>3.41</td>
+<td>$3,516</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>0.89</td>
+<td>17,014</td>
+<td>3.45</td>
+<td>3,628</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>1.04</td>
+<td>16,082</td>
+<td>3.41</td>
+<td>3,969</td>
+</tr>
+<tr>
+<td>2017</td>
+<td>1.06</td>
+<td>16,234</td>
+<td>3.16</td>
+<td>3,797</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>0.94</td>
+<td>18,213</td>
+<td>3.09</td>
+<td>4,174</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>0.93</td>
+<td>19,334</td>
+<td>3.13</td>
+<td>4,321</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>0.78</td>
+<td>20,925</td>
+<td>2.38</td>
+<td>4,689</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>0.67</td>
+<td>23,918</td>
+<td>2.28</td>
+<td>5,028</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>0.70</td>
+<td>24,980</td>
+<td>2.53</td>
+<td>6,011</td>
+</tr>
+<tr>
+<td>2023</td>
+<td>0.77</td>
+<td>26,501</td>
+<td>2.58</td>
+<td>6,551</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th>Physical damage (7)</th>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<th>Collision</th>
+<th>Comprehensive (8)</th>
+</tr>
+<tr>
+<th>Year</th>
+<th>Claim frequency (4)</th>
+<th>Claim severity (5)</th>
+<th>Claim frequency (4), (9)</th>
+<th>Claim severity (5), (9)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2014</td>
+<td>5.93</td>
+<td>$3,169</td>
+<td>2.79</td>
+<td>$1,572</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>6.01</td>
+<td>3,377</td>
+<td>2.62</td>
+<td>1,679</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>5.51</td>
+<td>3,454</td>
+<td>2.30</td>
+<td>1,951</td>
+</tr>
+<tr>
+<td>2017</td>
+<td>5.98</td>
+<td>3,517</td>
+<td>2.86</td>
+<td>1,811</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>4.92</td>
+<td>3,665</td>
+<td>2.70</td>
+<td>1,806</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>5.06</td>
+<td>3,794</td>
+<td>3.01</td>
+<td>1,788</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>3.95</td>
+<td>3,818</td>
+<td>2.91</td>
+<td>1,912</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>4.34</td>
+<td>4,548</td>
+<td>3.35</td>
+<td>1,944</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>4.51</td>
+<td>5,338</td>
+<td>3.78</td>
+<td>2,174</td>
+</tr>
+<tr>
+<td>2023</td>
+<td>4.54</td>
+<td>5,470</td>
+<td>4.06</td>
+<td>2,306</td>
+</tr>
+</tbody></table>
+
+(1) For all limits combined. Data are for paid claims.
+(2) Excludes Massachusetts and most states with no-fault automobile insurance laws.
+(3) Excludes Massachusetts, Michigan and New Jersey.
+(4) Claim frequency is claims per 100 earned car years. A car year is equal to 365 days of insured coverage for one vehicle.
+(5) Claim severity is the size of the loss.
+(6) Includes loss adjustment expenses.
+(7) Excludes Massachusetts, Michigan and Puerto Rico. Based on coverage with a $500 deductible.
+(8) Excludes wind and water losses.
+(9) Includes glass losses.
+
+Source: ISO®, a Verisk Analytics® business.</td></tr>
+</table></td> </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

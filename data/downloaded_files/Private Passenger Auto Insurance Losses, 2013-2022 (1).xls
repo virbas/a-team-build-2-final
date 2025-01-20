@@ -1,0 +1,209 @@
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>
+  <body>
+    <table>
+    <thead><tr><th></th></tr></thead>    <tbody> <tr class="odd"><td><table>
+<tr><td>Private Passenger Auto Insurance Losses, 2013-2022 (1)</td></tr>
+<tr><td><p> </p>
+</td></tr>
+<tr><td><table>
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th>Liability</th>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<th>Bodily injury (2)</th>
+<th>Property damage (3)</th>
+</tr>
+<tr>
+<th>Year</th>
+<th>Claim frequency (4)</th>
+<th>Claim severity (5), (6)</th>
+<th>Claim frequency (4)</th>
+<th>Claim severity (5), (6)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2013</td>
+<td>0.95&nbsp;</td>
+<td>$15,441&nbsp;</td>
+<td>&nbsp;3.55&nbsp;</td>
+<td>$3,231&nbsp;</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>0.97&nbsp;</td>
+<td>&nbsp;15,384&nbsp;</td>
+<td>&nbsp;3.41&nbsp;</td>
+<td>&nbsp;3,516&nbsp;</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>0.89&nbsp;</td>
+<td>&nbsp;17,014&nbsp;</td>
+<td>&nbsp;3.45&nbsp;</td>
+<td>&nbsp;3,628&nbsp;</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>1.04&nbsp;</td>
+<td>&nbsp;16,082&nbsp;</td>
+<td>&nbsp;3.41&nbsp;</td>
+<td>&nbsp;3,969&nbsp;</td>
+</tr>
+<tr>
+<td>2017</td>
+<td>1.06&nbsp;</td>
+<td>&nbsp;16,234&nbsp;</td>
+<td>&nbsp;3.16&nbsp;</td>
+<td>&nbsp;3,797&nbsp;</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>1.05&nbsp;</td>
+<td>&nbsp;17,451&nbsp;</td>
+<td>&nbsp;3.04&nbsp;</td>
+<td>&nbsp;3,924&nbsp;</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>1.01&nbsp;</td>
+<td>&nbsp;18,443&nbsp;</td>
+<td>&nbsp;3.03&nbsp;</td>
+<td>&nbsp;4,061&nbsp;</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>0.85&nbsp;</td>
+<td>&nbsp;19,965&nbsp;</td>
+<td>&nbsp;2.27&nbsp;</td>
+<td>&nbsp;4,450&nbsp;</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>0.72&nbsp;</td>
+<td>&nbsp;23,172&nbsp;</td>
+<td>&nbsp;2.12&nbsp;</td>
+<td>&nbsp;4,710&nbsp;</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>0.74&nbsp;</td>
+<td>&nbsp;24,211&nbsp;</td>
+<td>&nbsp;2.37&nbsp;</td>
+<td>&nbsp;5,313&nbsp;</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th>Physical damage (7)</th>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<th>Collision</th>
+<th>Comprehensive (8)</th>
+</tr>
+<tr>
+<th>Year</th>
+<th>Claim frequency (4)</th>
+<th>Claim severity (5)</th>
+<th>Claim frequency (4), (9)</th>
+<th>Claim severity (5), (9)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2013</td>
+<td>5.71&nbsp;</td>
+<td>$3,144&nbsp;</td>
+<td>&nbsp;2.57&nbsp;</td>
+<td>$1,621&nbsp;</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>5.93&nbsp;</td>
+<td>&nbsp;3,169&nbsp;</td>
+<td>&nbsp;2.79&nbsp;</td>
+<td>&nbsp;1,572&nbsp;</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>6.01&nbsp;</td>
+<td>&nbsp;3,377&nbsp;</td>
+<td>&nbsp;2.62&nbsp;</td>
+<td>&nbsp;1,679&nbsp;</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>5.51&nbsp;</td>
+<td>&nbsp;3,454&nbsp;</td>
+<td>&nbsp;2.30&nbsp;</td>
+<td>&nbsp;1,951&nbsp;</td>
+</tr>
+<tr>
+<td>2017</td>
+<td>5.98&nbsp;</td>
+<td>&nbsp;3,517&nbsp;</td>
+<td>&nbsp;2.86&nbsp;</td>
+<td>&nbsp;1,811&nbsp;</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>5.99&nbsp;</td>
+<td>&nbsp;3,661&nbsp;</td>
+<td>&nbsp;3.01&nbsp;</td>
+<td>&nbsp;1,834&nbsp;</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>5.96&nbsp;</td>
+<td>&nbsp;3,826&nbsp;</td>
+<td>&nbsp;3.23&nbsp;</td>
+<td>&nbsp;1,778&nbsp;</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>4.49&nbsp;</td>
+<td>&nbsp;3,709&nbsp;</td>
+<td>&nbsp;2.94&nbsp;</td>
+<td>&nbsp;1,995&nbsp;</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>4.46&nbsp;</td>
+<td>&nbsp;5,136&nbsp;</td>
+<td>&nbsp;3.20&nbsp;</td>
+<td>&nbsp;2,132&nbsp;</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>4.88&nbsp;</td>
+<td>&nbsp;5,992&nbsp;</td>
+<td>&nbsp;3.31&nbsp;</td>
+<td>&nbsp;2,738&nbsp;</td>
+</tr>
+</tbody></table>
+
+(1) For all limits combined. Data are for paid claims.
+(2) Excludes Massachusetts and most states with no-fault automobile insurance laws.
+(3) Excludes Massachusetts, Michigan and New Jersey.
+(4) Claim frequency is claims per 100 earned car years. A car year is equal to 365 days of insured coverage for one vehicle.
+(5) Claim severity is the size of the loss.
+(6) Includes loss adjustment expenses.
+(7) Excludes Massachusetts, Michigan and Puerto Rico. Based on coverage with a $500 deductible.
+(8) Excludes wind and water losses.
+(9) Includes glass losses.
+
+Source: ISO®, a Verisk Analytics® business.</td></tr>
+</table></td> </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

@@ -1,0 +1,41 @@
+[tool.poetry]
+name = "agent-rag"
+version = "0.1.0"
+description = ""
+authors = ["Elon Salfati <elon@salfati.group>"]
+readme = "README.md"
+packages = [
+  { include = "src" }
+]
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+langchain = "^0.3.14"
+langgraph = "^0.2.61"
+langchain-core = "^0.3.29"
+langchain-community = "^0.3.14"
+langchain-anthropic = "^0.3.1"
+langchain-postgres = "^0.0.12"
+python-dotenv = "^1.0.1"
+psycopg2-binary = "^2.9.10"
+openai = "^1.59.5"
+langchain-openai = "^0.2.14"
+anthropic = "^0.42.0"
+pandas = "^2.2.3"
+openpyxl = "^3.1.5"
+typer = "^0.15.1"
+rich = "^13.9.4"
+streamlit = "^1.41.1"
+beautifulsoup4 = "^4.12.3"
+psycopg = {extras = ["binary"], version = "^3.2.3"}
+unstructured = "^0.16.13"
+networkx = "^3.4.2"
+langchain-voyageai = "^0.1.4"
+matplotlib = "^3.10.0"
+langchain-experimental = "^0.3.4"
+numpy = "<2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
