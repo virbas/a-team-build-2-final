@@ -8,3 +8,9 @@
 User: is it complete?
 
 Assistant: not even close..
+
+
+
+Chat capabilities - https://youtu.be/jAm_Kve7yKs
+
+File Upload - https://youtu.be/jxTPUz7Ikxk
